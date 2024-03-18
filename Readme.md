@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **[Programing]**
 - 💬 Ask me about **[Your Expertise]**
 - 📫 How to reach me: **[mbouayou@student.1337.ma]**
-- 😄 Pronouns: **[Nex0r]**
 - ⚡ Fun fact: **[Plug the USB from the first time]**
 
 ## 🛠 Skills
