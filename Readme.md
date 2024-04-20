@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently Studing on **[1337 Coding School]**
 - 🌱 I’m currently learning **[Programing]**
-- 💬 Ask me about **[Your Expertise]**
 - 📫 How to reach me: **[mbouayou@student.1337.ma]**
 - ⚡ Fun fact: **[Plug the USB from the first time]**
 
