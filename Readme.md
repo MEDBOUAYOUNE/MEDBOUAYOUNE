@@ -16,7 +16,7 @@ Building scalable, high-performance applications — from Django/FastAPI backend
 
 ## About Me
 
-I'm a software engineer with a strong passion for backend development and building scalable, high-performance systems. I have hands-on experience with **Python, Django, FastAPI, REST APIs, database design, and Next.js**, and I enjoy working across the stack — from designing data models to shipping production-ready UIs. I'm currently studying Software Engineering at **1337 Coding School (UM6P)**, and I'm always looking to learn and improve.
+I'm a software engineer with passion for backend development and building scalable systems. I have hands-on experience with **Python, Django, FastAPI, REST APIs, database design, and Next.js**, and I enjoy working across the stack — from designing data models to shipping production-ready UIs. I'm currently studying Software Engineering at **1337 Coding School (UM6P)**, and I'm always looking to learn and improve.
 
 ---
 
