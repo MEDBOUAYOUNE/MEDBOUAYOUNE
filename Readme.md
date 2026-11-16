@@ -60,17 +60,6 @@ I'm a software engineer with passion for backend development and building scalab
 
 ---
 
-
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| **Matcha** — Dating Web App | Full-stack app with a modular backend, optimized relational schemas for profiles/matching/messaging, real-time communication with secure auth, and an intelligent matching engine (geolocation, shared interests, ranking algorithms). |
-| **Phone Store Management System** | Freelance backend for stock management, sales, and repair workflows, with APIs supporting daily business operations. Deployed with Docker — currently used by **15+ stores** in production. |
-| **Bousga Studio** | Full-stack portfolio platform with a custom CMS built on Next.js, Prisma, and PostgreSQL. Secure REST APIs with JWT auth, Cloudinary integration for optimized image uploads, and a responsive, SEO-friendly design. |
-
----
-
 ## Education
 
 **Software Engineering** · 1337 Coding School (UM6P) — Ben Guerir · `10/2022 – Present`
